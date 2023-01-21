@@ -1,5 +1,5 @@
 size(800, 500)
-background(255, 0, 0)
+
 
 for i in range(13):
     for j in range (8):
